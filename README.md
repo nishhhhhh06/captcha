@@ -1,4 +1,4 @@
-install libraries the requirements.txt
+install libraries from the requirements.txt
 run the solve_captcha.py file
 
 
